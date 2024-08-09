@@ -1,11 +1,6 @@
-<h1 style="color: #1e90ff; font-size: 3em; text-align: center; margin-top: 20px;">
-  Java Learning Path 🚀
-</h1>
+# Java Learning Path 🚀
 
-<h4 style="color: #2e8b57; text-align: center; font-style: italic; margin-top: 10px;text-decoration:underline;">
-  Welcome to my Java Learning Path repository!
-</h4>
+#### Welcome to my Java Learning Path repository!
+This is where I document my journey of learning Java, from the basics to advanced concepts. You'll find code snippets, projects, and notes that track my progress as I delve deeper into the world of Java programming.
 
-<p style="font-size: 1.2em; line-height: 1.6; margin: 20px auto; width: 80%; text-align: justify; background-color:yellow;color:black; padding:20px;">
-  This is where I document my journey of learning Java, from the basics to advanced concepts. You'll find code snippets, projects, and notes that track my progress as I delve deeper into the world of Java programming...
-</p>
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
