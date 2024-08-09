@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.Scanner;
 
-public class HelloWorld{
+public class Fundamentals{
     //Function Declaration
     public static void line(){
         int i=0;
